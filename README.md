@@ -1,31 +1,12 @@
-About Me
+MD Mahmudul Hasan
+Intern Software Engineer
 
-Name: MD MAHMUDUL HASAN
- 
-
-Title: intern Software Engineer
-
-
-Experience: 6 month 
-
-
-Expertise:
+📌 Experience: 6 Months
+🔹 Expertise:
 
 Software Design & Development
-
 Mobile Application Development
+🛠 Technologies:
 
-
-Dart
-
-Flutter
-
-
-Databases
-
-MySQL
-
-
-
-
-
+Programming Languages: Dart, Flutter
+Databases: MySQL,MongoDB
