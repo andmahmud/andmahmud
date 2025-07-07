@@ -1,6 +1,6 @@
 MD Mahmudul Hasan
 
-Intern Software Engineer
+Junior Software Engineer
 
 
 📌 Experience: 6 Months
