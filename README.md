@@ -3,11 +3,11 @@
 </p> -->
 
 
-<h1 align="center">MD Mahmudul Hasan</h1>
-<p align="center"><b>Junior Software Engineer</b></p>
+<h1 align="center">MD MAHMUDUL HASAN</h1>
+<p align="center"><b>Software Engineer</b></p>
 
 <p align="center">
-  📍 Location: Dhaka, Bangladesh • ✉️ Email: thedevmahmud.com  
+  📍 Location: Dhaka, Bangladesh • ✉️ Email: thedevmahmud@gmail.com  
 </p>
 
 ---
