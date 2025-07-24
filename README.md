@@ -1,13 +1,13 @@
-<!-- Profile Image -->
-<p align="center">
+<!-- Profile Image <p align="center">
   <img src="https://your-image-url.com/profile.jpg" alt="MD Mahmudul Hasan" width="150" height="150" style="border-radius: 50%;" />
-</p>
+</p> -->
+
 
 <h1 align="center">MD Mahmudul Hasan</h1>
 <p align="center"><b>Junior Software Engineer</b></p>
 
 <p align="center">
-  📍 Location: Dhaka, Bangladesh • 📞 Phone: +8801XXXXXXXXX • ✉️ Email: yourmail@example.com  
+  📍 Location: Dhaka, Bangladesh • ✉️ Email: thedevmahmud.com  
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ### 🧑‍💻 Experience
 
 **Junior Software Engineer**  
-📆 _6 Months_  
+📆 _1 year_  
 • Worked on software design and mobile app development using Flutter  
 • Followed clean architecture principles  
 • Collaborated in version-controlled team environments (Git/GitHub)  
@@ -32,7 +32,7 @@
 ### 🛠 Technologies
 
 **Programming Languages:**  
-`Dart`, `Flutter`
+`Dart`, `Flutter` 
 
 **Databases:**  
 `MySQL`, `MongoDB`
