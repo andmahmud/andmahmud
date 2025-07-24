@@ -44,6 +44,6 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin](https://www.linkedin.com/in/mdmahmud/))]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/mdmahmud/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/mdmahmud/))  
 
 
