@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 Experience
 
-**Junior Software Engineer**  
+**Software Engineer**  
 📆 _1.5 year_  
 • Worked on software design and mobile app development using Flutter  
 • Followed clean architecture principles  
