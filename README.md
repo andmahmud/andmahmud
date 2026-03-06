@@ -73,17 +73,14 @@ _1.5+ Years_
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmahmud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff&icon_color=6366f1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mdmahmud&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=6366f1&fire=f59e0b&currStreakLabel=ffffff)
-
-</div>
+| Metric | Value |
+|---|---|
+| Total Contributions | 30+ |
+| Primary Language | Dart / Flutter |
+| Version Control | Git & GitHub |
+| Workflow | Feature branching, Pull Requests, Code Reviews |
 
 ---
 
