@@ -46,7 +46,7 @@ Git · GitHub · Android Studio · VS Code · Postman · Figma
 ## Experience
 
 **Software Engineer**
-_1.5+ Years_
+_2+ Years_
 
 - Developed and maintained cross-platform mobile applications for Android and iOS using Flutter and Dart
 - Implemented Clean Architecture with strict separation across Data, Domain, and Presentation layers
