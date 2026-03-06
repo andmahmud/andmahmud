@@ -90,7 +90,7 @@ _2+ Years_
 class MdMahmudulHasan extends FlutterDeveloper {
   final String role       = "Software Engineer";
   final String location   = "Dhaka, Bangladesh";
-  final String experience = "1.5+ years";
+  final String experience = "2+ years";
 
   final List<String> skills = [
     "Cross-Platform Mobile Development (Android & iOS)",
@@ -102,7 +102,7 @@ class MdMahmudulHasan extends FlutterDeveloper {
     "Figma to Flutter — Pixel-Perfect UI",
   ];
 
-  String get motto => "Build clean. Ship fast. Stay consistent.";
+  String get motto => "Build clean. Ship fast. Stay consistent."
 }
 ```
 
