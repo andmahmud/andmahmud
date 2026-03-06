@@ -14,7 +14,7 @@ Dhaka, Bangladesh &nbsp;|&nbsp; thedevmahmud@gmail.com
 
 ## Summary
 
-Software Engineer with 1.5+ years of experience building cross-platform mobile applications using Flutter and Dart. Focused on delivering clean, maintainable code through layered architecture, efficient state management, and seamless API integrations. Experienced in taking products from design to production on both Android and iOS.
+Software Engineer with 2+ years of experience building cross-platform mobile applications using Flutter and Dart. Focused on delivering clean, maintainable code through layered architecture, efficient state management, and seamless API integrations. Experienced in taking products from design to production on both Android and iOS.
 
 ---
 
